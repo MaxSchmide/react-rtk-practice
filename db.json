@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "Allison Simonis",
+      "id": 1
+    },
+    {
+      "name": "Sammy O'Conner",
+      "id": 2
+    },
+    {
+      "name": "Shelly Spinka",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Recycled Wooden Table",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Refined Rubber Soap",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "title": "Tasty Granite Fish",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "title": "Handmade Cotton Salad",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72708",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=85519",
+      "id": 3
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=33536",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=31457",
+      "id": 7
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4014",
+      "id": 8
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=50903",
+      "id": 9
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61144",
+      "id": 10
+    }
+  ]
+}
